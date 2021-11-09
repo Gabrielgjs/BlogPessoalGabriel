@@ -5,6 +5,7 @@
        cursor: pointer;
    }
       
-.bg-navbar{
-       background-color:indianred;
-   }
+.hover a:hover{
+    padding-left: 10px;
+}
+
